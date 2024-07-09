@@ -1,7 +1,7 @@
 AUTHOR = 'Comfy Bot'
 SITENAME = 'Comfy Workspace'
 SITEURL = ""
-THEME = "E:/Code/cwblog/pelican-themes/theme/"
+THEME = "E:/Code/cwblog/2/pelican-themes/theme/"
 PATH = "content"
 
 TIMEZONE = 'EST'
